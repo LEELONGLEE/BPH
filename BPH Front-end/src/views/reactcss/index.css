@@ -1,0 +1,30 @@
+.dateArea {
+    border: 1px solid #cad1d7;
+    background-color: white;
+    border-radius: 0.375rem;
+    max-width: 30%;
+    margin-left: 140px;
+    margin-top: -45px;
+    height: 42px;
+    text-align: center;
+}
+
+.dateArea > h3 {
+    margin-top: 8px;
+}
+
+.vscbot {
+    font-size: 40px;
+}
+
+.botChatArea {
+    /* background-color: greenyellow; */
+    top: 680px;
+    width: 5%;
+    border-radius: 100%;
+    text-align: center;
+    position: sticky;
+    z-index: 1;
+    left: 1500px;
+    /* border: 1px solid black; */
+}

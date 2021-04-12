@@ -1,0 +1,12 @@
+.iconMenu {
+    font-size: 20px;
+    transition: 550ms;
+    top: 0;
+    position: sticky;
+}
+
+.nav-menu {
+    z-index: 1;
+ }
+ 
+

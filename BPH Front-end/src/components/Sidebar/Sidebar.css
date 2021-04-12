@@ -1,0 +1,25 @@
+.nav-menu {
+   justify-content: left;
+   top: 0;
+   transition: 550ms;
+   left: -100%;
+   display: flex;
+}
+
+.nav-menu .container-fluid {
+    display: none;
+}
+
+.nav-menu.action {
+    left: 0;
+    transition: 550ms;
+}
+
+.nav-menu.action .container-fluid {
+    display: flex;
+}
+
+.iconMenu {
+    z-index: 1;
+}
+

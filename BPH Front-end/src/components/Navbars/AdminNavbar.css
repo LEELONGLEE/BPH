@@ -1,0 +1,19 @@
+.nav-menu {
+   width: 250px;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   position: fixed;
+   top: 0;
+   transition: 850ms;
+   left: -100%;
+}
+
+.nav-menu.active {
+    left: 0;
+    transition: 350ms;
+}
+
+.headerContainer {
+    margin-top: 15px;
+}
